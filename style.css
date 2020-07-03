@@ -1,0 +1,15 @@
+table{
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 91px;
+}
+thead{
+    background-color: black;
+}
+.text-color{
+    color: white;
+}
+td{
+    border: 1px solid;
+    padding: 30px;
+}
